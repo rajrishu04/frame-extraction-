@@ -58,4 +58,4 @@ def extract_frames(root_dir, save_dir, no_frames_to_extract = 100, buffer_frames
 	
 			
 
-extract_frames("C:\\Users\\hp\\OneDrive - IIT Delhi\\ML project\\sample video2", "C:\\Users\\hp\\OneDrive - IIT Delhi\\ML project\\sample video2")
+extract_frames("input-video-file-location")
